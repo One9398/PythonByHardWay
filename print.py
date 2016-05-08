@@ -9,3 +9,10 @@ print "I'd much rather you 'not'."
 print 'I "said" do not touch this.'
 # print "it is a comment, and doesn't print"
 
+"""
+multi line messages to comment
+"""
+
+'''
+multi line messages to comment
+'''
